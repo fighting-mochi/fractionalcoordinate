@@ -1,0 +1,4 @@
+1. for i in 1 2 3 4 ; do atomsk ../B6S4_ud.gin POSCAR -frac pack ; mv POSCAR B6S4_ud; atomsk B6S4_ud abin; done
+2. find the coordinates of central atoms by comparing the ovito position and B6S4_uu.in, and label them
+3. for i in 1 2 3 4 ; do atomsk B6S4_uu -frac abin B6S4_uu_frac; done
+4. directly ctrl+v the label in B6S4_uu.in and copy them to B6S4_uu_frac.in

@@ -1,0 +1,4 @@
+ Total charge of the cell:    183.53999999999991     
+ Total polarization vector:   5.5315624999999997       0.20562499999999975       0.40968750097008916     
+ 
+  N2 =           42

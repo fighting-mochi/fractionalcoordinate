@@ -1,0 +1,12 @@
+ Values in e.A (1.602 10^-29 C.m)
+ 
+         Min. value:    0.0000000000000000     
+         Max. value:   0.20815469889882457     
+            Average:    5.8970952046600758E-002
+ Av. abs. deviation:    7.5227327152521312E-002
+ Standard deviation:    8.3616253798545773E-002
+ 
+        Sum along X:    6.3997433513485186E-007
+        Sum along Y:    0.0000000000000000     
+        Sum along Z:   -1.5636770769877906E-007
+   Sum of all norms:    4.1279666432620532     
